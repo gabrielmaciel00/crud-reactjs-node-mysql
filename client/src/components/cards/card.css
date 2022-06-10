@@ -1,0 +1,36 @@
+.card--container{
+   width: 80%;
+   border: 3px solid black;
+   border-radius:5px;
+   margin: 10px;
+   padding: 5px;
+   cursor:pointer
+}
+.card--container:hover{
+    background-color: aqua;
+}
+
+.card--title{
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.card--category{
+    margin-top:5px ;
+}
+
+.containerEditar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+.containerEditar form{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.containerEditar form input{
+    width:30rem;
+
+}
+
