@@ -1,2 +1,2 @@
 # crud-reactjs-node-mysql
-Crud com ReactJS, NodeJS e MYSQL
+Crud with ReactJS, NodeJS and MYSQL
